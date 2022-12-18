@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 
 I'm making minecraft modpacks , if you like them please give me a star:)
 ### Doing
-- Rift 1.13.2
-- Fabric 1.19.3
+- Quilt 1.19.2/1.19.3
+- Fabric 1.19.2/1.19.3
+- Forge 1.19.2
