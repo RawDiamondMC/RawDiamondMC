@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 [![My Github's stats](https://github-readme-stats.vercel.app/api?username=RawDiamondMC)]()
 
-I'm making minecraft modpacks , if you like them please give me a star:)
+I'm making minecraft modpacks and fabric mods , if you like them please give me a star:)
+
 ### Doing
-- Quilt 1.19.2/1.19.3
-- Fabric 1.19.2/1.19.3
-- Forge 1.19.2
+
+- Fabric 1.19.2/1.19.3 modpack
+
+- Fabric 1.19 mods
