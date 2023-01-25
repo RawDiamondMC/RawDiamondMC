@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm RawDiamond
+### Hi there 👋 , I'm RawDiamondMC
 
 <!--
 **RawDiamondMC/RawDiamondMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,4 @@ Here are some ideas to get you started:
 
 I'm making minecraft modpacks and fabric mods , if you like them please give me a star:)
 
-### Doing
-
-- Fabric 1.19.2/1.19.3 modpack
-
-- Fabric 1.19 mods
+![:rawdiamondmc](https://count.getloli.com/get/@rawdiamondmc?theme=asoul)
