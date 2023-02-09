@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 [![My Github's stats](https://github-readme-stats.vercel.app/api?username=RawDiamondMC)]()
 
-I'm making minecraft modpacks and fabric mods , if you like them please give me a star:)
+I'm making minecraft fabric mods , if you like them please give me a star:)
 
 ![:rawdiamondmc](https://count.getloli.com/get/@rawdiamondmc?theme=asoul)
