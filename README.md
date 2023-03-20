@@ -11,3 +11,5 @@ You can also call me 生钻
 ### 我正在制作我的世界模组，如果你喜欢请给我一个Star；）
 
 ![:rawdiamondmc](https://count.getloli.com/get/@rawdiamondmc?theme=asoul)
+
+[![Page Views Count](https://badges.toozhao.com/badges/01GVZQBQYJ7A0X43X43K4Y2JZA/orange.svg)](https://badges.toozhao.com/stats/01GVZQBQYJ7A0X43X43K4Y2JZA "Get your own page views count badge on badges.toozhao.com")
