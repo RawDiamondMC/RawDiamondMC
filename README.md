@@ -4,8 +4,8 @@ You can also call me 生钻
 
 你也可以叫我生钻
 
-### I'm making MINECRAFT mods,if you like them you can give me a star;)
-### 我正在制作我的世界模组，如果你喜欢请给我一个Star；）
+### I am editing [Plugin diary](https://github.com/InsidePlugins/plugin-diary-docs), if you like please give me a Star;)
+### 我正在纂修[Plugin diary](https://github.com/InsidePlugins/plugin-diary-docs)，如果你喜欢请给我一个Star；）
 
 ![:rawdiamondmc](https://count.getloli.com/get/@rawdiamondmc?theme=asoul)
 
