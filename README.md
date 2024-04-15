@@ -1,13 +1,8 @@
 ### Hi there 👋 , I'm RawDiamondMC
 ### 你好👋，我是RawDiamondMC
-You can also call me 生钻
-
-你也可以叫我生钻
-
-### I am editing [Plugin diary](https://github.com/InsidePlugins/plugin-diary-docs), if you like please give me a Star;)
-### 我正在纂修[Plugin diary](https://github.com/InsidePlugins/plugin-diary-docs)，如果你喜欢请给我一个Star；）
 
 ![:rawdiamondmc](https://count.getloli.com/get/@rawdiamondmc?theme=asoul)
+[![](https://raw.githubusercontent.com/AmarokIce/AmarokIce/main/img/BuyMeACoffee.png)](https://www.buymeacoffee.com/RawDiamondMC)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rawdiamondmc&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rawdiamondmc&theme=nord_bright)
